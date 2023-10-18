@@ -16,6 +16,7 @@
 ### Azure DataBricks WorkSpace with PySpark Code
 ![Azure DataBricks WorkSpace with PySpark Code](https://github.com/imran15n/Olympics-Tokyo-DataEngineering-Project/assets/32336243/3ef5419b-2389-405f-8537-a7a53e76ebaa)
 
+## Load Transformed Data
 ### Transformed-Data-Storage on Azure-DataLake-Gen2
 ![Transformed-Data-Storage-Azure-DataLake-Gen2](https://github.com/imran15n/Olympics-Tokyo-DataEngineering-Project/assets/32336243/d14eee6f-5020-4fd8-83eb-30d534888cc6)
 
